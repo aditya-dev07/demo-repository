@@ -1,2 +1,3 @@
 # demo-repository
-This is my first Repository
+This is my first Git Repository
+author- Aditya Kumar Singh
